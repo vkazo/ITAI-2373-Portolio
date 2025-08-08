@@ -5,5 +5,4 @@ Welcome to my Artificial Intelligence portfolio — a collection of projects dev
 ## 📚 About Me
 Hi! I'm Kaden Glover — a passionate AI student focused on developing real-world intelligent systems that solve complex problems. This portfolio showcases my growth in AI and programming, with a special emphasis on text processing, sentiment analysis, topic modeling, and more.
 
-## 🗂️ Repository Structure
 
