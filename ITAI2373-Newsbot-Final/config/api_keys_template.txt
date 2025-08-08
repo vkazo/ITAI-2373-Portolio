@@ -1,1 +1,14 @@
-# API_KEY_NAME=your_key_here
+# 🔐 API Keys Template for NewsBot 2.0
+# ======================================
+# ⚠️ Do NOT share this file with your real keys.
+# Make a copy named `api_keys.py` and insert your personal keys.
+
+# Example:
+# GOOGLE_TRANSLATE_API_KEY = "your-real-google-api-key-here"
+# OPENWEATHER_API_KEY = "your-real-openweather-api-key-here"
+# NEWS_API_KEY = "your-real-newsapi-org-key-here"
+
+# Add your own below:
+GOOGLE_TRANSLATE_API_KEY = ""
+NEWS_API_KEY = ""
+OPENAI_API_KEY = ""
