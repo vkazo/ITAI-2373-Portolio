@@ -61,7 +61,7 @@ NewsBot2.0/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/NewsBot2.0.git
+git clone https://github.com/vkazo/NewsBot2.0.git
 cd NewsBot2.0
 ```
 
@@ -99,24 +99,6 @@ pip install -r requirements.txt
 | Multilingual Processing       | Module 8, 9, 11                      |
 | Entity Relationship Mapping   | Module 6                             |
 
----
 
-## ✍️ Author
-
-**Kaden Glover**  
-ITAI 2373 — Midterm NLP Project  
-Instructor: *[Instructor Name]*
-
----
-
-## 📜 License
-
-This project is licensed for educational purposes. Reuse, redistribution, and modification are allowed with proper attribution.
-
----
-
-## ⭐ Acknowledgments
-
-- BBC News dataset (train/test)  
 - Hugging Face Transformers & Datasets  
 - NLTK, spaCy, Scikit-learn open-source communities
