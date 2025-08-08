@@ -1,0 +1,28 @@
+# Core Python Libraries
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.8.4
+seaborn==0.13.2
+scikit-learn==1.5.0
+
+# NLP Libraries
+nltk==3.8.1
+spacy==3.7.4
+sentence-transformers==2.7.0
+langdetect==1.0.9
+deep-translator==1.11.4
+textstat==0.7.3
+wordcloud==1.9.3
+
+# ML/Deep Learning
+scipy==1.13.1
+plotly==5.22.0
+networkx==3.3
+requests==2.31.0
+beautifulsoup4==4.12.3
+
+# Evaluation
+rouge-score==0.1.2
+
+# Others
+tqdm==4.66.4
